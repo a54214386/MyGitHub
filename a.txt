@@ -1,1 +1,2 @@
 i love java
+/r/n追加第一行
